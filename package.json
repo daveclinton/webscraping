@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/daveclinton/webscraping/issues"
   },
-  "homepage": "https://github.com/daveclinton/webscraping#readme"
+  "homepage": "https://github.com/daveclinton/webscraping#readme",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "cheerio": "^1.0.0-rc.12"
+  }
 }
