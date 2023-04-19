@@ -1,0 +1,22 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "Web scraping using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daveclinton/webscraping.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveclinton/webscraping/issues"
+  },
+  "homepage": "https://github.com/daveclinton/webscraping#readme"
+}
